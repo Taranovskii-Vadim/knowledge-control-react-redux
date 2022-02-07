@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.modalFeedback {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  font-size: 60px;
+}
+
+.errorIcon {
+  color: var(--color-2);
+}
+
+.successIcon {
+  color: var(--color-4);
+}
+
+.iconMsg {
+  margin: 15px 0px;
+  font-size: 20px;
+}

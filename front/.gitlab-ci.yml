@@ -1,0 +1,12 @@
+stages:
+  - build
+  # - test
+
+build-job:
+  stage: build
+  image: node
+  script:
+    - echo "Start building application..."
+    - npm install
+    - npm run build
+    - echo "Build is ready!!!"

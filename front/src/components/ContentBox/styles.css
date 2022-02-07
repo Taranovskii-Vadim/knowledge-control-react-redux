@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: '100%';
+  padding: 15px;
+  border-radius: var(--sm-radius);
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.title {
+  font-size: 20px;
+  text-align: left;
+  margin-bottom: 15px;
+}

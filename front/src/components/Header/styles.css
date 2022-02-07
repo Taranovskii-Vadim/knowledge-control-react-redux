@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+  justify-content: flex-end;
+  background-color: var(--color-3);
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 320px;
+}
+
+.menu {
+  border-bottom: none;
+}

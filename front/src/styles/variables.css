@@ -1,0 +1,13 @@
+:root {
+  /* font-family */
+  --font-family: 'Roboto';
+
+  /* variables */
+  --sm-radius: 5px;
+
+  /* colors */
+  --color-1: #0084ff;
+  --color-2: #cc1039;
+  --color-3: #ffffff;
+  --color-4: #25c220;
+}

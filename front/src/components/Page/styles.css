@@ -1,0 +1,9 @@
+.root {
+  background-color: transparent;
+}
+
+.content {
+  z-index: 1;
+  padding: 96px 70px 40px;
+  position: relative;
+}

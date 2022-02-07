@@ -1,0 +1,29 @@
+.root {
+  width: 30%;
+}
+
+.graphContainer {
+  display: flex;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.graph {
+  width: 100%;
+  margin: auto;
+}
+
+.secondGraphItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.secondGraphItem:last-child {
+  margin-bottom: 0;
+}
+
+.graph:last-child {
+  margin-bottom: 0px;
+}

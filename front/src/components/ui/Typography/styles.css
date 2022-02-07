@@ -1,0 +1,27 @@
+.default {
+  font-size: 14px;
+}
+
+.primary:global(.ant-typography) {
+  color: var(--color-1);
+}
+
+.title1:global(.ant-typography) {
+  font-size: 26px;
+}
+
+.title2:global(.ant-typography) {
+  font-size: 24px;
+}
+
+.title3:global(.ant-typography) {
+  font-size: 22px;
+}
+
+.title4:global(.ant-typography) {
+  font-size: 20px;
+}
+
+.title5:global(.ant-typography) {
+  font-size: 18px;
+}
